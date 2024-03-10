@@ -2,7 +2,7 @@
 
 Download the entire zip file of this repository. This ensures that the excel files are in the correct folder.
 
-Install these extensions
+Install these packages.
 ```
 pip install pandas
 pip install matplotlib
