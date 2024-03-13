@@ -11,3 +11,9 @@ pip install matplotlib
 pip install numpy
 pip install scikit-learn
 ```
+
+Sometimes there might be a problem when trying to import these files. In case a problem arises, simply install:
+
+```
+pip install openpyxl
+```
